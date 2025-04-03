@@ -1,0 +1,12 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bastianqrapp",
+      "sha256_cert_fingerprints":
+        ["66:77:1A:06:3D:44:43:9D:AB:E3:2A:C9:44:78:5E:A4:BC:8F:C0:B2:D3:47:4A:95:5D:16:31:9C:47:14:90:F9",
+          "0C:02:40:A0:54:F6:0D:8B:1E:C6:B5:90:AF:79:10:4A:5D:DE:CD:16:80:BF:9A:BB:92:5A:0C:B5:A5:05:8D:48"
+        ]
+    }
+  }]
+  
