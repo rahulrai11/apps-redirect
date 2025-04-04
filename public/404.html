@@ -1,0 +1,6 @@
+<script type="text/javascript">
+    var path = window.location.pathname;
+    var newUrl = "myapp://" + path;
+    // var newUrl = "myapp://" + path.replace(/^\/+/, '');  // Remove extra slashes
+    window.location.replace(newUrl);
+</script>
